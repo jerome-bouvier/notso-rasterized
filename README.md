@@ -1,1 +1,2 @@
 # notso-rasterized
+![](./screenshot.png)
